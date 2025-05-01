@@ -8,3 +8,28 @@ general_4 : "👤 Anda adalah admin tanpa nama dalam group chat ini!\nKembalikan
 general_5 : "🔑 Anda perlu menjadi admin dengan **manage video chat** rights untuk melakukan tindakan ini."
 general_6 : "📺 Bot tidak melakukan streaming pada video chat."
 
+# Classes - Telegram.py
+tg_1 : "⚠️ Bot sedang **overloaded** dengan muat turun sekarang.\n\n**Cuba selepas:** {0} (__expected time__)"
+tg_2 : "❌ Gagal untuk muat turun media dari Telegram."
+
+# Core - Call.py
+call_1 : "🤖 Bot memerlukan kebenaran **admin** untuk menjemput akaun asisten ke saluran anda."
+call_2 : "🚫 Asisten telah diban dalam grup atau saluran anda.\nSila unban dan mainkan lagu lagi\n\n**Assistant username:** @{0}\n**ID Asisten:** {1}"
+call_3 : "❗ Exception berlaku semasa menjemput akaun asisten ke saluran anda.\n\n**Reason**: {0}"
+call_4 : "🔗 Bot memerlukan kebenaran **invite users via link** untuk menjemput akaun asisten ke group chat anda."
+call_5 : "⏳ Akaun asisten akan menyertai dalam 5 saat, sila tunggu..."
+call_6 : "✅ Akaun asisten {0} berjaya menyertai.\n\nMula mainkan muzik sekarang."
+call_7 : "❌ **Gagal untuk tukar stream**\nSila gunakan /skip untuk tukar lagu lagi."
+call_8 : "📥 Memuat turun lagu seterusnya dari playlist...."
+call_9 : "📉 Asisten telah menyertai terlalu banyak chat, jadi asisten tidak boleh menyertai sini\nHubungi [Support Group]({0}) untuk memperbaiki dan memberitahu masalah ini."
+call_10: "⏳ Asisten sedang FloodWait kerana join/leave, sila tunggu {0} saat."
+
+# PLUGINS - Auth.py
+auth_1 : "🔒 Anda hanya boleh mempunyai 20 pengguna dalam senarai pengguna dibenarkan (aul) group anda."
+auth_2 : "✅ Berjaya ditambah ke dalam senarai pengguna dibenarkan group anda."
+auth_3 : "⚠️ Sudah berada dalam senarai pengguna dibenarkan."
+auth_4 : "❌ Berjaya dikeluarkan dari senarai pengguna dibenarkan group ini."
+auth_5 : "🚫 Pengguna sasaran bukan pengguna yang dibenarkan."
+auth_6 : "🔄 Sedang mengambil senarai pengguna dibenarkan...sila tunggu!"
+auth_7 : "**Senarai pengguna dibenarkan[aul]:**\n\n"
+auth_8 : "┗ Ditambah oleh:-"
