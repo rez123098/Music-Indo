@@ -1,2 +1,10 @@
 name : 🇲🇾 Malaysia 
 
+# General Strings
+general_1 : "🔄 Balas mesej pengguna atau beri username/user_id."
+general_2 : "❌ Ralat! Penggunaan command yang salah."
+general_3 : "⚠️ Beberapa **exception occurred** semasa memproses pertanyaan anda.\n\nJenis exception: {0}"
+general_4 : "👤 Anda adalah admin tanpa nama dalam group chat ini!\nKembalikan ke akaun pengguna untuk hak admin."
+general_5 : "🔑 Anda perlu menjadi admin dengan **manage video chat** rights untuk melakukan tindakan ini."
+general_6 : "📺 Bot tidak melakukan streaming pada video chat."
+
