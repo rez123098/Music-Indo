@@ -86,3 +86,26 @@ help_1 : "Klik pada butang di bawah untuk maklumat lanjut. Jika anda menghadapi 
 help_2 : "Hubungi saya di PM untuk bantuan."
 
 # Settings Messages
+setting_1 : "⚙️ **Tetapan Bot Muzik**\n\n🖇**Grup:** {0}\n🔖**ID Grup:** `{1}`\n\n💡**Pilih butang fungsi di bawah yang anda ingin ubah atau sunting.**"
+
+setting_3 : "⁉️ Apa Ini?\n\n1) Direct: Mainkan carian terus. Guna -v untuk main video dalam mod direct.\n\n2) Inline: Papar butang pilihan untuk pilih antara video & audio."
+
+setting_4 : "⁉️ Apa Ini?\n\n👥 Semua Orang: Sesiapa sahaja boleh guna command admin (skip, pause, resume dll) dalam grup ini.\n\n🙍 Hanya Admin: Hanya admin dan pengguna yang dibenarkan boleh guna command admin."
+
+setting_5 : "Tiada Pengguna Dibenarkan Ditemui\n\nAnda boleh benarkan bukan admin guna command admin saya dengan /auth dan padamkan dengan /unauth."
+
+setting_9 : "⁉️ Apa Ini?\n\nApabila diaktifkan, Bot akan padam mesejnya selepas {0} untuk menjadikan chat anda bersih dan teratur."
+
+setting_10 : "⁉️ Apa Ini?\n\n1) Grup: Main muzik dalam grup di mana command diberikan.\n\n2) Channel: Main muzik dalam channel yang anda mahu. Tetapkan ID channel melalui /channelplay."
+
+setting_11 : "⁉️ Apa Ini?\n\n1) Semua Orang: Sesiapa sahaja dalam grup ini boleh main muzik di sini.\n\n2) Hanya Admin: Hanya admin boleh main muzik dalam grup ini."
+
+setting_12 : "❌ Anda belum tetapkan ID channel untuk mod channel. Sila tetapkan dengan /channelplay."
+
+setting_13 : "Tidak boleh tukar mod main semasa panggilan suara aktif. Sila hentikan voice chat dahulu dengan /stop."
+
+setting_14 : "⁉️ Apa Ini?\n\nApabila diaktifkan, Bot akan padam command yang digunakan (/play, /pause, /shuffle, /stop dll) serta-merta.\n\nBot perlukan kebenaran admin untuk padam mesej bagi fungsi ini berfungsi dengan betul."
+
+setting_15 : "Gagal menyelesaikan peer, pastikan anda telah tambah bot dalam channel dan jadikan ia admin.\n\nCuba tetapkan semula dengan /channelplay."
+
+setting_16 : "⁉️ Apa Ini?\n\nApabila diaktifkan, Bot akan mencadangkan anda..."
