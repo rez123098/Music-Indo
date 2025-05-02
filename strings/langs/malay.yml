@@ -113,3 +113,29 @@ setting_16 : "⁉️ Apa Ini?\n\nApabila diaktifkan, Bot akan mencadangkan anda.
 
 ustats_1 : "🚫 Tiada statistik pengguna ditemui."
 ustats_2 : "🎶 Anda telah mainkan **{0}** lagu setakat ini dengan jumlah sebanyak **{1}** kali.\n\n**{2}** lagu teratas yang paling banyak anda mainkan:\n\n"
+
+# Global Stats
+gstats_1 : "📊 Mengambil statistik global, ini mungkin mengambil sedikit masa..."
+gstats_2 : "🚫 Tiada statistik global ditemui."
+gstats_3 : "📊 Mengambil 10 teratas {0} secara global, ini mungkin mengambil sedikit masa..."
+gstats_4 : "**Jumlah pertanyaan kepada bot:** {0}\n\n{1} telah memainkan **{2}** lagu setakat ini dengan jumlah sebanyak **{3}** kali.\n\n**{4} lagu teratas:**\n"
+gstats_5 : "**{0} chat teratas bagi {1}:**\n\n"
+gstats_6 : "**{0} pengguna teratas bagi {1}:**\n\n"
+gstats_7 : "🎶 Grup ini telah memainkan **{0}** lagu setakat ini dengan jumlah sebanyak **{1}** kali.\n\n{2} lagu teratas dimainkan oleh grup ini:\n\n"
+gstats_8 : "📊 Mengambil statistik dan maklumat umum bot.. ini mungkin mengambil sedikit masa..."
+gstats_9 : "**10 Statistik Teratas Global Bot**\n\nPilih butang di bawah untuk melihat statistik global dari pelayan bot."
+gstats_10 : "**Statistik global bagi {0}**\n\nPilih butang di bawah untuk melihat statistik global dari pelayan bot."
+gstats_11 : "**Statistik umum bagi {0}**\nPilih butang di bawah untuk melihat statistik global dari pelayan bot.\n\nGuna /gstats untuk semak lagu, chat, pengguna teratas dan banyak lagi."
+
+# Play 
+# Play Callback Messages
+playcb_1: "🚫 Ini bukan untuk anda! Sila cari sendiri."
+playcb_2: "🔄 Mendapatkan hasil seterusnya..."
+
+# Channel Play Messages
+cplay_1: "🎶 Anda boleh mainkan muzik dalam saluran daripada chat ini [{0}] ke mana-mana saluran atau saluran yang dipautkan dengan chat anda.\n\n**Untuk saluran yang dipautkan:**\n/{1} linked\n\n**Untuk saluran lain:**\n/{1} [ID saluran]"
+cplay_2: "🚫 Chat ini tidak mempunyai saluran yang dipautkan."
+cplay_3: "✅ Saluran ditetapkan ke {0}\n\nID Saluran: {1}"
+cplay_4: "❌ Gagal mendapatkan saluran.\n\nPastikan anda telah menambah bot ke dalam saluran anda dan menjadikannya admin.\nTukar saluran melalui /channelplay atau matikan mod main saluran melalui /playmode."
+cplay_5: "🚫 Hanya saluran sahaja yang disokong."
+cplay_6: "🔑 Anda perlu menjadi **pemilik** saluran [{0}] untuk menyambungkannya dengan group ini.\n**Pemilik saluran:** @{1}\n\nSebagai alternatif, anda boleh pautkan group anda dengan saluran itu dan cuba sambungkan menggunakan `/channelplay linked`."
