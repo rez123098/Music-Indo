@@ -109,3 +109,7 @@ setting_14 : "⁉️ Apa Ini?\n\nApabila diaktifkan, Bot akan padam command yang
 setting_15 : "Gagal menyelesaikan peer, pastikan anda telah tambah bot dalam channel dan jadikan ia admin.\n\nCuba tetapkan semula dengan /channelplay."
 
 setting_16 : "⁉️ Apa Ini?\n\nApabila diaktifkan, Bot akan mencadangkan anda..."
+
+
+ustats_1 : "🚫 Tiada statistik pengguna ditemui."
+ustats_2 : "🎶 Anda telah mainkan **{0}** lagu setakat ini dengan jumlah sebanyak **{1}** kali.\n\n**{2}** lagu teratas yang paling banyak anda mainkan:\n\n"
