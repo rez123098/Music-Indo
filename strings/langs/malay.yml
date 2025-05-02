@@ -73,3 +73,10 @@ admin_34 : "❌➻ Gagal untuk seek stream semasa."
 # Bot
 
 # Start
+start_1 : "Hey, saya ialah {0} .\n\n➻ Saya ialah bot penstriman Telegram dengan beberapa ciri berguna.\n\nPlatform yang disokong: YouTube, Spotify, SoundCloud dan lain-lain.\n\nJangan segan untuk tambah saya ke dalam grup anda."
+start_2 : "Hey,\n ini ialah {0}\n\nSebuah bot pemain muzik yang pantas dan berkuasa dengan ciri-ciri hebat.\n\nUsername asisten: @{1}\nID Asisten: {2}"
+start_3 : "Pemilik {0}, {1} baru sahaja menyertai chat anda."
+start_4 : "Pengguna sudo bagi {0}, {1} baru sahaja menyertai chat anda."
+start_5 : "🦸 **Supergroup diperlukan** 🦸\n\nSila tukarkan **group** anda kepada **supergroup** dan kemudian tambah saya semula.\n\n**Cara tukar ke supergroup?**\n🥱 Jadikan sejarah chat group anda **boleh dilihat** dahulu."
+start_6 : "**Chat telah disenarai hitam**\n\nChat ini telah disenarai hitam daripada menggunakan bot. Minta pengguna sudo untuk whitelist chat anda, pengguna sudo [senarai]({0})."
+start_7 : "Heya :) Saya aktif sejak **{0}**"
