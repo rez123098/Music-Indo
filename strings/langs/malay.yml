@@ -79,4 +79,10 @@ start_3 : "Pemilik {0}, {1} baru sahaja menyertai chat anda."
 start_4 : "Pengguna sudo bagi {0}, {1} baru sahaja menyertai chat anda."
 start_5 : "🦸 **Supergroup diperlukan** 🦸\n\nSila tukarkan **group** anda kepada **supergroup** dan kemudian tambah saya semula.\n\n**Cara tukar ke supergroup?**\n🥱 Jadikan sejarah chat group anda **boleh dilihat** dahulu."
 start_6 : "**Chat telah disenarai hitam**\n\nChat ini telah disenarai hitam daripada menggunakan bot. Minta pengguna sudo untuk whitelist chat anda, pengguna sudo [senarai]({0})."
-start_7 : "Heya :) Saya aktif sejak **{0}**"
+start_7 : "Hey :) Saya aktif sejak **{0}**"
+
+# Help Messages
+help_1 : "Klik pada butang di bawah untuk maklumat lanjut. Jika anda menghadapi sebarang masalah, anda boleh bertanya di chat sokongan.\n\nSemua command boleh digunakan dengan: /"
+help_2 : "Hubungi saya di PM untuk bantuan."
+
+# Settings Messages
