@@ -139,3 +139,119 @@ cplay_3: "✅ Saluran ditetapkan ke {0}\n\nID Saluran: {1}"
 cplay_4: "❌ Gagal mendapatkan saluran.\n\nPastikan anda telah menambah bot ke dalam saluran anda dan menjadikannya admin.\nTukar saluran melalui /channelplay atau matikan mod main saluran melalui /playmode."
 cplay_5: "🚫 Hanya saluran sahaja yang disokong."
 cplay_6: "🔑 Anda perlu menjadi **pemilik** saluran [{0}] untuk menyambungkannya dengan group ini.\n**Pemilik saluran:** @{1}\n\nSebagai alternatif, anda boleh pautkan group anda dengan saluran itu dan cuba sambungkan menggunakan `/channelplay linked`."
+
+# Play Messages
+play_1: "🔄 **Sedang diproses...**"
+play_2: "📺 **Mod main saluran**\nMemproses carian... sila tunggu!\n\n**Saluran dipautkan:** {0}"
+play_3: "❌ Gagal memproses carian!"
+play_4: "🔒 **Hanya admin boleh mainkan**\nHanya admin dan pengguna dibenarkan (auth) boleh main muzik dalam group ini.\n\nTukar mod melalui /playmode dan jika anda sudah admin, muat semula cache admin melalui /admincache atau /reload."
+play_5: "❌ Gagal memproses fail audio.\n\nSaiz fail audio mestilah kurang daripada 100 MB."
+play_6: "⏳ **Had durasi melebihi**\n\n**Had dibenarkan:** {0} minit\n**Durasi diterima:** {1} minit"
+play_7: "🚫 Maaf! Bot hanya benarkan bilangan panggilan video yang terhad kerana masalah beban CPU. Banyak chat lain sedang menggunakan panggilan video sekarang. Sila tukar ke audio atau cuba lagi kemudian."
+play_8: "❌ Bukan sambungan fail video yang sah!\n\n**Format disokong:** {0}"
+play_9: "❌ Saiz fail video mestilah kurang daripada 1 GB."
+play_10: "📋 **Ciri senarai main YouTube**\n\nPilih mod yang anda ingin guna untuk mainkan keseluruhan senarai main YouTube."
+play_11: "**Tajuk:** {0}\n\n🕕**Durasi:** {1} minit"
+play_12: "🎵 **Senarai main Spotify**\n\nDiminta oleh: {0}"
+play_13: "🍏 **Senarai main Apple**\n\nDiminta oleh: {0}"
+play_14: "❌ **Gagal mengesahkan URL.**\nBot tidak pasti jika URL ini dari mana-mana platform berikut: YouTube, Apple Music, Spotify, Resso, dan SoundCloud.\n\nAnda boleh guna /stream untuk m3u8 atau pautan jauh."
+play_15: "🔴 **Penstriman langsung dikesan**\n\nSistem mengesan pautan lagu anda sebagai penstriman langsung. Mahu mainkan penstriman langsung?"
+play_16: "❌ Gagal mendapatkan maklumat lagu; mungkin lagu itu disekat umur di YouTube. Sila cuba lagu lain."
+play_17: "🚫 Tidak dapat mainkan jenis carian Spotify ini!\n\nSaya hanya boleh mainkan lagu, album, artis, dan senarai main Spotify."
+play_18: "🔊 **Tiada sembang suara aktif**\n\nUntuk gunakan force play, mesti ada sembang suara aktif."
+play_19: "Saya rasa ini bukan URL yang boleh distrim. Jika anda yakin ia boleh distrim, sila guna /stream <url>."
+
+# Playlist
+playlist_1: "📋 **Penggunaan:** /play [nama lagu atau pautan YouTube atau balas kepada audio]\n\nJika anda ingin mainkan senarai main dari server bot! Tekan butang di bawah."
+playlist_2: "🔄 Mendapatkan senarai main anda... sila tunggu!"
+playlist_3: "🚫 Anda tiada senarai main di server bot."
+playlist_4: "📃 Senarai main dijumpai:\n\n"
+playlist_5: "⏳ Durasi - {0} Minit"
+playlist_6: "📩 Hubungi saya di PM untuk padam senarai main."
+playlist_7: "🎵 Lagu dalam senarai main: {0}\n\nTekan butang untuk padam lagu tertentu dalam senarai main anda.\n\nUntuk padam keseluruhan senarai main: tekan butang 'padam semua senarai main'."
+playlist_8: "🚫 Sudah wujud\n\nLagu ini sudah ada dalam senarai main anda."
+playlist_9: "🚫 Maaf! Anda hanya boleh simpan {0} lagu dalam satu senarai main."
+playlist_10: "➕ Penambahan senarai main\n\n{0}\nTelah ditambah ke senarai main anda."
+playlist_11: "✅ Lagu berjaya dipadam."
+playlist_12: "❌ Gagal memadam lagu anda."
+playlist_13: "🗑️ Semua senarai main anda telah dipadam dari server."
+playlist_14: "⚠️ **Adakah anda pasti mahu padam keseluruhan senarai main?**\n\nAnda akan kehilangan senarai main anda dan ia tidak boleh dikembalikan."
+playlist_15: "[🎶 Lihat keseluruhan senarai main]({0})"
+playlist_16: "🔄 Senarai main dalam giliran:"
+playlist_17: "📍 Kedudukan giliran -"
+playlist_18: "[🎶 Lihat keseluruhan senarai main dalam giliran]({0})\n\nKedudukan giliran terakhir: **{1}**"
+playlist_19: "🚫 Group ini tiada senarai main dalam server bot."
+playlist_20: "🎵 Lagu telah ditambah ke senarai main anda!"
+playlist_21: "⏳ Menambah lagu ke senarai main anda...."
+playlist_22: "🔗 Sila berikan URL lagu/senarai main YouTube atau nama lagu untuk ditambah ke senarai main anda."
+playlist_23: "🗑️ Semua lagu telah dipadam daripada senarai main anda."
+playlist_24: "🪄 Lagu telah dipadam daripada senarai main anda."
+playlist_25: "⏱️ Sila tunggu\n🗑️ Sedang memadam senarai main anda...."
+
+saavn_1: "😞 Maaf! Buat masa ini, bot tidak dapat memainkan URL Podcast Saavn."
+
+# Playmode
+playmode_1: "🎮 Pilih mod yang anda ingin gunakan untuk memainkan permintaan dalam kumpulan anda [{0}]."
+playmode_2: "✅ Tetapan telah diubah dan disimpan dengan berjaya oleh {0}."
+
+# Stream
+str_1: "🔗 Sila berikan pautan m3u8 atau pautan indeks."
+str_2: "✅ Penstriman yang sah disahkan\n\nSila tunggu, sedang memproses pautan..."
+str_3: "❌ Tidak dapat menstrim siaran langsung YouTube. Format siaran langsung tidak dijumpai."
+
+# TopPlay
+tracks_1: "**🔄 Sedang memproses senarai 10 teratas {0}**\n\n**Diminta oleh:** {1}\n\nSemak 10 lagu teratas melalui /gstats."
+tracks_2: "❌ **Ralat**\n\nTiada **senarai 10 teratas {0}** di pelayan bot. Sila cuba senarai lain."
+
+# TOOLS
+
+# Lyrics
+lyrics_1: "**PENGGUNAAN:**\n\n/lyrics [nama lagu]"
+lyrics_2: "🔍 sedang mencari lirik..."
+lyrics_3: "❌ Gagal mendapatkan lirik 🥲.\n\n**Cuba cari:** {0}"
+lyrics_4: "Klik butang di bawah untuk mendapatkan lirik tanpa perlu spam mesej yang panjang."
+
+# Ping
+ping_1: "» {0} sedang ping..."
+ping_2: "**» PONG**: `{0}`ms \n\n<b><u>Statistik sistem {1} :</u></b>\n\n🌋 Masa Aktif : {2}\n🌋 RAM : {3} \n🌋 CPU : {4} \n🌋 Cakera : {5} \n🌋 Py-tgcalls : `{6} ms`"
+
+# Song
+song_1: "🚫 Anda hanya boleh memuat turun muzik atau video daripada YouTube di perbualan peribadi. Sila mulakan perbualan peribadi dengan saya."
+song_2: "**CARA PENGGUNAAN:**\n\n/song [nama lagu] atau [pautan YouTube]"
+song_3: "❌ Pautan siaran langsung dikesan. Saya tidak dapat memuat turun video langsung di YouTube."
+song_4: "**TAJUK**: {0}\n\nPilih jenis muat turun yang anda mahukan."
+song_5: "❌ Bukan pautan YouTube yang sah."
+song_6: "🔄 Mendapat format...\n\nSila tunggu..."
+song_7: "❌ Gagal mendapatkan format yang tersedia untuk video. Sila cuba lagu lain."
+song_8: "📥 Muat turun bermula\n\nSila tunggu beberapa saat..."
+song_9: "❌ Gagal memuat turun lagu daripada yt-dl\n\n**Sebab:** {0}"
+song_10: "❌ Gagal memuat naik ke pelayan Telegram."
+song_11: "📤 Muat naik bermula\nSila tunggu..."
+
+# Tools - Queue
+queue_1: "⏳ » Sila tunggu..."
+queue_2: "🚫 Senarai giliran kosong. Tiada lagu dijumpai."
+queue_3: "<u>**Lagu Dalam Giliran:</u>**  [Lihat Lagi Lagu Dalam Giliran Di Sini]({0})"
+queue_4: "**💫 Ditambah ke giliran di #{0}**\n\n**Tajuk:** {1}\n**⏱ Tempoh:** {2}\n**Ditambah oleh:** {3} ❄️"
+queue_5: "🚫 Hanya satu lagu dalam giliran; tambah beberapa lagu lagi untuk melihat keseluruhan giliran."
+
+# All Streaming Lines
+stream_1: "**✮ Mula Menstrim**\n\n**✯ Tajuk:** [{0}]({1})\n**✬ Tempoh:** {2} minit\n**✭ Oleh:** {3}"
+stream_2: "➲ **Mula Menstrim |**\n\n**‣ Jenis strim:** strim langsung [url]\n**‣ Oleh:** {0}"
+
+V_C_1: "🔄 Mengambil senarai peserta...."
+V_C_2: "**Nama:** {0}\n    **ID:** {1}\n    **Nama pengguna:** {2}\n    **Kongsi video:** {3}\n    **Kongsi skrin:** {4}\n    **Tangan diangkat:** {5}\n    **Dibisukan:** {6}\n    **Sedang bercakap:** {7}\n    **Telah keluar dari kumpulan:** {8}"
+V_C_3: "🚫 Tiada peserta dalam voice chat."
+V_C_4: "[🔗 Anda boleh semak semua butiran peserta voice chat di sini]({0})"
+V_C_5: "❌ Tiada panggilan aktif dalam chat ini."
+
+# misc
+misc_1: "🤖 Bot telah mengosongkan barisan secara automatik dan keluar dari voice chat kerana tiada sesiapa yang mendengar lagu dalam voice chat."
+
+# Inline Buttons
+
+# General Buttons
+CLOSE_BUTTON: "Tutup"
+CLOSEMENU_BUTTON: "Tutup"
+BACK_BUTTON: "🔙 Kembali"
+UNBAN_BUTTON: "🆓 Nyahsekat asisten"
