@@ -1,4 +1,4 @@
-name : 🇲🇾 Malaysia 
+8name : 🇲🇾 Malaysia 
 
 # General Strings
 general_1 : "🔄 Balas mesej pengguna atau beri username/user_id."
@@ -255,3 +255,149 @@ CLOSE_BUTTON: "Tutup"
 CLOSEMENU_BUTTON: "Tutup"
 BACK_BUTTON: "🔙 Kembali"
 UNBAN_BUTTON: "🆓 Nyahsekat asisten"
+
+# Lyrics
+L_B_1: "🎶 Semak lirik sekarang"
+
+# Start
+S_B_1 : "🗒 Perintah"
+S_B_2 : "🔧 Tetapan"
+S_B_3 : "📨 Sokongan"
+S_B_4 : "📨 Saluran"
+S_B_5 : "✚ Tambah saya ke Kumpulan anda ✚"
+S_B_6 : "💡 Repositori Git"
+S_B_7 : "👤 Pemilik"
+S_B_8 : "🔎 Cara guna? Menu Perintah"
+
+#PlayMode
+PM_B_1 : "Main secara langsung"
+PM_B_2 : "Inline markup"
+PM_B_3 : "Main di saluran"
+
+#Play
+P_B_1 : "🎵 Main audio"
+P_B_2 : "🎥 Main video"
+P_B_3 : "🏮 Mula siaran langsung"
+P_B_4 : "🎵 Main senarai main"
+
+P_B_5 : "Senyap"
+P_B_6 : "Buka senyap"
+P_B_7 : "✚ Senarai main"
+
+#Playlist
+PL_B_1 : "🚀 Main senarai main"
+PL_B_2 : "Senarai main"
+PL_B_3 : "✚ Cpanel"
+
+# Play Buttons
+PL_B_4 : "📡 Mod Main"
+PL_B_5 : "🔄 Padam Semua Senarai Main"
+PL_B_6 : "↗️ Padam Senarai Main"
+PL_B_7 : "❗️ Ya, Saya Pasti. Padam"
+PL_B_8 : "🔢 Main 10 Teratas"
+PL_B_9 : "🤖 Main 10 Lagu Teratas Global"
+PL_B_10 : "🏘 Main 10 Lagu Teratas Kumpulan"
+PL_B_11 : "👤 Main 10 Lagu Teratas Peribadi"
+PL_B_12 : "🏘 Main Senarai Main Kumpulan"
+
+# Settings
+ST_B_1 : "🔊 Kualiti Audio"
+ST_B_2 : "🎥 Kualiti Video"
+ST_B_3 : "🎩 Pengguna Dibenarkan"
+ST_B_4 : "📱 Papan Pemuka"
+ST_B_5 : "▶️ Mod Main"
+ST_B_6 : "🏴‍☠️ Bahasa"
+ST_B_7 : "🔄 Mod Bersih"
+ST_B_8 : "{0} Kualiti Rendah"
+ST_B_9 : "{0} Kualiti Sederhana"
+ST_B_10 : "{0} Kualiti Tinggi"
+ST_B_11 : "{0} Kualiti Studio"
+ST_B_12 : "{0} Kualiti SD-360p"
+ST_B_13 : "{0} Kualiti SD-480p"
+ST_B_14 : "{0} Kualiti HD-720p"
+ST_B_15 : "{0} Kualiti FHD-1080p"
+ST_B_16 : "{0} Kualiti QHD-2k"
+ST_B_17 : "{0} Kualiti QHD-4k"
+ST_B_18 : "✅ Diaktifkan"
+ST_B_19 : "❌ Dinyahtaktifkan"
+ST_B_20 : "👤 Admin"
+ST_B_21 : "👥 Semua Orang"
+ST_B_22 : "📋 Senarai Pengguna Dibenarkan"
+ST_B_23 : "🔎 Mod Carian"
+ST_B_24 : "✅ Direct"
+ST_B_25 : "✅ Inline"
+ST_B_26 : "👨‍⚖️ Command Admin"
+ST_B_27 : "🏘 Kumpulan"
+ST_B_28 : "🏷 Saluran"
+ST_B_29 : "🫂 Jenis Main"
+ST_B_30 : "🗑 Bersihkan command"
+ST_B_31 : "🧑‍🚀 Mod Cadangan"
+
+# Song Buttons
+SG_B_1 : "↗️ Buka di Perbualan Peribadi"
+SG_B_2 : "🔊 Audio"
+SG_B_3 : "🎥 Video"
+
+# Stats
+SA_B_1 : "📢 10 Sembang Teratas"
+SA_B_2 : "🔢 10 Lagu Teratas"
+SA_B_3 : "🧛 10 Pengguna Teratas"
+SA_B_4 : "🏷 10 Teratas Di Sini"
+SA_B_5 : "💡 Statistik Keseluruhan"
+SA_B_6 : "👤 Statistik Pengguna"
+SA_B_7 : "🔢 Statistik 10 Teratas Global"
+SA_B_8 : "🤖 Statistik Bot"
+
+# Queue
+QU_B_1: "📋 Senarai dalam giliran"
+QU_B_2: "▶️ Dimainkan {0} daripada {1} minit"
+
+# Sudo Users
+
+# Sudo
+sudo_1: "{0} sudah merupakan pengguna sudo."
+sudo_2: "✅ Ditambah **{0}** ke dalam pengguna sudo."
+sudo_3: "❌ Bukan sebahagian daripada sudo bot."
+sudo_4: "🚫 Dikeluarkan dari pengguna sudo bot."
+sudo_5: "🔥 <u>**pemilik:**</u>\n"
+sudo_6: "\n🔥 <u>**sudoers:**</u>\n"
+sudo_7: "🔍 Tiada pengguna sudo ditemui."
+
+# Block
+block_1: "{0} sudah disekat daripada bot."
+block_2: "🚫 Ditambah **{0}** ke dalam senarai sekatan bot. Pengguna tidak akan dapat menggunakan bot sekarang dalam apa jua keadaan.\n\nSemak pengguna yang disekat: /blockedusers"
+block_3: "🆓 Pengguna sudah bebas."
+block_4: "✅ Pengguna telah dikeluarkan dari senarai sekatan. Pengguna boleh menggunakan bot sekarang."
+block_5: "🔍 Tiada pengguna yang disekat ditemui."
+block_6: "⏳ Mendapatkan senarai pengguna yang disekat...sila tunggu!"
+block_7: "**Pengguna yang disekat:**\n\n"
+
+# Blacklist Chats
+black_1: "**Penggunaan:**\n/blacklistchat [CHAT_ID]"
+black_2: "🚫 Chat sudah disenaraihitamkan."
+black_3: "✅ Chat telah berjaya disenaraihitamkan."
+black_4: "**Penggunaan:**\n/whitelistchat [CHAT_ID]"
+black_5: "✅ Chat sudah disenarai putihkan."
+black_6: "✅ Chat telah berjaya disenarai putihkan."
+black_7: "**Chats yang disenaraihitamkan:**\n\n"
+black_8: "🔍 Tiada chat yang disenaraihitamkan."
+
+# Video Limit
+vid_1: "**Penggunaan:**\n/set_video_limit [bilangan chat] atau [disable]"
+vid_2: "🔢 Sila gunakan nombor untuk menetapkan had."
+vid_3: "📊 Had maksimum panggilan video ditetapkan kepada {0} chat."
+vid_4: "🚫 Panggilan video dinyahaktifkan."
+
+# Maintenance
+maint_1: "**Penggunaan:**\n/maintenance [enable|disablepp]"
+maint_2: "🔧 Diaktifkan untuk penyelenggaraan."
+maint_3: "🔧 Mod penyelenggaraan dinyahaktifkan."
+maint_4: "🛠️ Bot sedang dalam penyelenggaraan. Lawati sokongan untuk mengetahui sebabnya."
+maint_5: "Mod Penyenggaraan sudah dinyahaktifkan."
+maint_6: "Mod Penyenggaraan sudah diaktifkan."
+
+# Log
+log_1: "**Penggunaan:**\n/logger enable|disable]"
+log_2: "✅ Log berjaya diaktifkan."
+log_3: "❌ Log dinyahaktifkan."
+
