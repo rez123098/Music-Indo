@@ -24,7 +24,7 @@ Get started quickly by deploying to Heroku with just one click:
 
   - Activate Virtual Env: `source .venv/bin/activate`
 
-  - Clone the Repository: `git clone https://github.com/hakutakaid/Music-Indo && cd ChiefMusic`
+  - Clone the Repository: `git clone https://github.com/rez123098/Music-Indo && cd ChiefMusic`
 
   - Install Python Requirements: `pip install -r requirements.txt`
 
